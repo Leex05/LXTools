@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LXToolsDemo_Example' do
+  pod 'LXToolsDemo', :path => '../'
+
+  target 'LXToolsDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

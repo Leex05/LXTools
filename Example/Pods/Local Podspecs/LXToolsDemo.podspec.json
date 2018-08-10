@@ -1,0 +1,22 @@
+{
+  "name": "LXToolsDemo",
+  "version": "0.1.0",
+  "summary": "A short description of LXToolsDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/leex05/LXToolsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leex05": "leixiao@kaituocn.com"
+  },
+  "source": {
+    "git": "https://github.com/leex05/LXToolsDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LXToolsDemo/Classes/**/*"
+}

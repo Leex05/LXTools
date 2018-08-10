@@ -1,0 +1,16 @@
+PODS:
+  - LXToolsDemo (0.1.0)
+
+DEPENDENCIES:
+  - LXToolsDemo (from `../`)
+
+EXTERNAL SOURCES:
+  LXToolsDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LXToolsDemo: fb22f61117ab81d7ab299e0d5f4635af6f567ae2
+
+PODFILE CHECKSUM: f4d5ac76dbd29b261b494f141c430b6f2cf92ec1
+
+COCOAPODS: 1.5.3
