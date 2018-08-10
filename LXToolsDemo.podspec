@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LXToolsDemo'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'A short description of LXToolsDemo.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'LXToolsDemo/Classes/**/*'
+s.source_files = 'Classes/**/*'
   
   # s.resource_bundles = {
   #   'LXToolsDemo' => ['LXToolsDemo/Assets/*.png']

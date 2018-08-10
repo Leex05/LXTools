@@ -1,16 +1,21 @@
 PODS:
-  - LXToolsDemo (0.1.0)
+  - LXToolsDemo (1.0)
 
 DEPENDENCIES:
-  - LXToolsDemo (from `../`)
+  - LXToolsDemo (from `https://github.com/Leex05/LXTools.git`)
 
 EXTERNAL SOURCES:
   LXToolsDemo:
-    :path: "../"
+    :git: https://github.com/Leex05/LXTools.git
+
+CHECKOUT OPTIONS:
+  LXToolsDemo:
+    :commit: 35504c92a9a6721577bdf7b00bac94e155c619e3
+    :git: https://github.com/Leex05/LXTools.git
 
 SPEC CHECKSUMS:
-  LXToolsDemo: fb22f61117ab81d7ab299e0d5f4635af6f567ae2
+  LXToolsDemo: 816fb7576acf679a47a50d514b0e98f1a4138571
 
-PODFILE CHECKSUM: f4d5ac76dbd29b261b494f141c430b6f2cf92ec1
+PODFILE CHECKSUM: 87409262ac5452eb450f13391e804e9382f517f8
 
 COCOAPODS: 1.5.3

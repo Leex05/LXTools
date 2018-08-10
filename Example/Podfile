@@ -1,11 +1,8 @@
+
 use_frameworks!
 
 target 'LXToolsDemo_Example' do
-  pod 'LXToolsDemo', :path => '../'
+#  pod 'LXToolsDemo', :path => '../'
+pod 'LXCategoty', :git => 'https://github.com/Leex05/LXTools.git'
 
-  target 'LXToolsDemo_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

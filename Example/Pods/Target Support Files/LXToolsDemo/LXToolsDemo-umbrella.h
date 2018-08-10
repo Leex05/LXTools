@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIView+YZTCView.h"
 
 FOUNDATION_EXPORT double LXToolsDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char LXToolsDemoVersionString[];
